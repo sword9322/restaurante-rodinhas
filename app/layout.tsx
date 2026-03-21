@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: 'O Rodinhas | Marisqueira Tradicional em Sesimbra desde 1992',
   description:
-    'Restaurante O Rodinhas - Marisqueira tradicional em Sesimbra desde 1992. Especialidades: choco frito, mariscos frescos, caracóis e petiscos regionais. #6 no TripAdvisor.',
+    'Restaurante O Rodinhas - Marisqueira tradicional em Sesimbra desde 1992. Especialidades: choco frito, mariscos frescos e petiscos regionais. #6 no TripAdvisor.',
   keywords: [
     'O Rodinhas',
     'restaurante Sesimbra',
